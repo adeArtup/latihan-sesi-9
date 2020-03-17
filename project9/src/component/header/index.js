@@ -31,7 +31,7 @@ export default function Header() {
             </Nav.Link>
           </Nav>
           <Nav>
-            <Link to="#login">Login</Link>
+            <Link to="#login" className="slink">Login</Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
